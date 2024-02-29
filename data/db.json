@@ -1,0 +1,14 @@
+{
+    "tasks": [
+      {
+        "id": "2",
+        "name": "Cleaning",
+        "detail": "Cleaning my room"
+      },
+      {
+        "id": "3",
+        "name": "House Chores",
+        "detail": "Dishes, sweeping the living room, picking clothes from outside"
+      }
+    ]
+  }
